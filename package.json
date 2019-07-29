@@ -1,0 +1,18 @@
+{
+  "name": "download-fir-apps",
+  "version": "1.0.0",
+  "description": "Auto download Fir.im APPs.",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node lib/index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Satrong",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "fs-extra": "^8.1.0",
+    "mongoose": "^5.6.7"
+  }
+}
